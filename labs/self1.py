@@ -1,0 +1,6 @@
+print("hello world")
+print("hello yr\n world")
+print("Name\t;nelindu")
+print("country\t;sri lanka")
+print("saman said\"good morning\"")
+print("saman said\'good morning\'")
